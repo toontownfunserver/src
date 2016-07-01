@@ -6,7 +6,7 @@ model-path ../resources
 
 # Server:
 server-version infinite-dev
-min-access-level 600
+min-access-level 100
 accountdb-type developer
 shard-low-pop 50
 shard-mid-pop 100
